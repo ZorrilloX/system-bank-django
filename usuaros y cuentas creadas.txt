@@ -1,0 +1,8 @@
+1. indigo2 - clave123
+	5 - cuenta:481054
+
+
+2. usuariA - root
+	6 - cuenta:744262
+
+3. Issac - root
